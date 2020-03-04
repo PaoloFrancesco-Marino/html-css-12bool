@@ -14,6 +14,10 @@ body {
   height: 290px;
 }
 
+.bg-all {
+  background: #bbada2;
+}
+
 .bg-color-base {
   background: #cdc2b3;
   height: 100%;
@@ -63,6 +67,10 @@ h1 {
   font-size: 400%;
 }
 
+.position {
+  position: relative;
+}
+
 .bg-color-8 h1,
 .bg-color-16 h1,
 .bg-color-64 h1,
@@ -71,10 +79,10 @@ h1 {
   color: #fff;
 }
 
-.position {
-  position: relative;
+.padding-container {
+  padding: 20px 20px;
 }
 
-.padding {
-  padding: 10px
+.padding-box {
+  
 }
