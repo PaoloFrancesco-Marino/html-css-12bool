@@ -213,6 +213,37 @@ h3 {
   background: #345ecc;
 }
 
+.blue .color-1:hover,
+.blue .color-2:hover,
+.blue .color-3:hover,
+.blue .color-4:hover,
+.blue .color-5:hover,
+.blue .color-6:hover,
+.blue .color-7:hover,
+.blue .color-8:hover,
+.blue .color-9:hover,
+.blue .color-10:hover {
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  opacity: 0.8;
+}
+
+.blue .color-1,
+.blue .color-2,
+.blue .color-3,
+.blue .color-4,
+.blue .color-5,
+.blue .color-6,
+.blue .color-7,
+.blue .color-8,
+.blue .color-9,
+.blue .color-10 {
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  -ms-transition: -ms-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out
+}
+
 /* violet */
 .violet .color-1 {
   background: #8217d7;
@@ -252,6 +283,38 @@ h3 {
 .violet .color-10 {
   background: #a750ed;
 }
+
+.violet .color-1:hover,
+.violet .color-2:hover,
+.violet .color-3:hover,
+.violet .color-4:hover,
+.violet .color-5:hover,
+.violet .color-6:hover,
+.violet .color-7:hover,
+.violet .color-8:hover,
+.violet .color-9:hover,
+.violet .color-10:hover {
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  opacity: 0.8;
+}
+
+.violet .color-1,
+.violet .color-2,
+.violet .color-3,
+.violet .color-4,
+.violet .color-5,
+.violet .color-6,
+.violet .color-7,
+.violet .color-8,
+.violet .color-9,
+.violet .color-10 {
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  -ms-transition: -ms-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out
+}
+
 /* pink */
 .pink .color-1 {
   background: #d718a3;
@@ -291,6 +354,38 @@ h3 {
 .pink .color-10 {
   background: #eb54bf;
 }
+
+.pink .color-1:hover,
+.pink .color-2:hover,
+.pink .color-3:hover,
+.pink .color-4:hover,
+.pink .color-5:hover,
+.pink .color-6:hover,
+.pink .color-7:hover,
+.pink .color-8:hover,
+.pink .color-9:hover,
+.pink .color-10:hover {
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  opacity: 0.8;
+}
+
+.pink .color-1,
+.pink .color-2,
+.pink .color-3,
+.pink .color-4,
+.pink .color-5,
+.pink .color-6,
+.pink .color-7,
+.pink .color-8,
+.pink .color-9,
+.pink .color-10 {
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  -ms-transition: -ms-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out
+}
+
 /* red */
 .red .color-1 {
   background: #f63262;
@@ -329,3 +424,36 @@ h3 {
 
 .red .color-10 {
   background: #f66689;
+
+}
+
+.red .color-1:hover,
+.red .color-2:hover,
+.red .color-3:hover,
+.red .color-4:hover,
+.red .color-5:hover,
+.red .color-6:hover,
+.red .color-7:hover,
+.red .color-8:hover,
+.red .color-9:hover,
+.red .color-10:hover {
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  opacity: 0.8;
+}
+
+.red .color-1,
+.red .color-2,
+.red .color-3,
+.red .color-4,
+.red .color-5,
+.red .color-6,
+.red .color-7,
+.red .color-8,
+.red .color-9,
+.red .color-10 {
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  -ms-transition: -ms-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out
+}
