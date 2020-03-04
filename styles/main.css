@@ -6,7 +6,6 @@
 }
 
 body {
-  margin: 50px 0;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -162,6 +161,171 @@ h3 {
   height: 100%;
 }
 
-.prova {
-  height: 100px;
+/* pixel papers */
+
+.bg-full {
+  margin-top: 20px;
+  background: #101219;
+  height: 810px;
 }
+
+.height-pp {
+  height: 70px;
+}
+
+/* blue */
+.blue .color-1 {
+  background: #24418d;
+}
+
+.blue .color-2 {
+  background: #486fd6;
+}
+.blue .color-3 {
+  background: #6484db;
+}
+
+.blue .color-4 {
+  background: #5e7dd7;
+}
+
+.blue .color-5 {
+  background: #5d80da;
+}
+
+.blue .color-6 {
+  background: #93a9e2;
+}
+
+.blue .color-7 {
+  background: #486ed1;
+}
+
+.blue .color-8 {
+  background: #2b51b2;
+}
+
+.blue .color-9 {
+  background: #244393;
+}
+
+.blue .color-10 {
+  background: #345ecc;
+}
+
+/* violet */
+.violet .color-1 {
+  background: #8217d7;
+}
+
+.violet .color-2 {
+  background: #b466ee;
+}
+.violet .color-3 {
+  background: #c186f0;
+}
+
+.violet .color-4 {
+  background: #bd7ef1;
+}
+
+.violet .color-5 {
+  background: #bf7ff1;
+}
+
+.violet .color-6 {
+  background: #dabdf7;
+}
+
+.violet .color-7 {
+  background: #b268f1;
+}
+
+.violet .color-8 {
+  background: #b268f1;
+}
+
+.violet .color-9 {
+  background: #8618db;
+}
+
+.violet .color-10 {
+  background: #a750ed;
+}
+/* pink */
+.pink .color-1 {
+  background: #d718a3;
+}
+
+.pink .color-2 {
+  background: #f065ca;
+}
+.pink .color-3 {
+  background: #f186d4;
+}
+
+.pink .color-4 {
+  background: #f37dd3;
+}
+
+.pink .color-5 {
+  background: #f27ed3;
+}
+
+.pink .color-6 {
+  background: #f9bae7;
+}
+
+.pink .color-7 {
+  background: #ed67c8;
+}
+
+.pink .color-8 {
+  background: #ea2eb6;
+}
+
+.pink .color-9 {
+  background: #db18a5;
+}
+
+.pink .color-10 {
+  background: #eb54bf;
+}
+/* red */
+.red .color-1 {
+  background: #f63262;
+}
+
+.red .color-2 {
+  background: #f63262;
+}
+.red .color-3 {
+  background: #f77a9a;
+}
+
+.red .color-4 {
+  background: #fb8aa8;
+}
+
+.red .color-5 {
+  background: #f894ac;
+}
+
+.red .color-6 {
+  background: #ffd1dc;
+}
+
+.red .color-7 {
+  background: #f97c9a;
+}
+
+.red .color-8 {
+  background: #f6416c;
+}
+
+.red .color-9 {
+  background: #f31f52;
+}
+
+.red .color-10 {
+  background: #f66689;
