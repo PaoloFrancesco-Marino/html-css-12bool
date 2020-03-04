@@ -13,11 +13,7 @@
 
 /* columns style */
 [class^="col-"] {
-  position: relative;
-  float: left;
-  padding: 16px;
-  background: #bcaf9f;
-  text-align: center;
+ float: left;
 }
 
 /* column dimension */

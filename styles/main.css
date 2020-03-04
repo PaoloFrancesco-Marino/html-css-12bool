@@ -11,7 +11,7 @@ body {
 /* columns 2048 */
 
 .height {
-  height: 200px;
+  height: 290px;
 }
 
 .bg-color-base {
@@ -69,4 +69,12 @@ h1 {
 .bg-color-32 h1,
 .bg-color-256 h1 {
   color: #fff;
+}
+
+.position {
+  position: relative;
+}
+
+.padding {
+  padding: 10px
 }
