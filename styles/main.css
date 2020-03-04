@@ -235,9 +235,9 @@ h3 {
 .blue .color-8:hover,
 .blue .color-9:hover,
 .blue .color-10:hover {
-  transform:rotate(45deg);
-  -ms-transform:rotate(45deg);
-  -webkit-transform:rotate(45deg);
+  transform:rotate(360deg);
+  -ms-transform:rotate(360deg);
+  -webkit-transform:rotate(360deg);
   opacity: 0.8;
 }
 
@@ -251,9 +251,9 @@ h3 {
 .blue .color-8,
 .blue .color-9,
 .blue .color-10 {
-  -webkit-transition: -webkit-transform .8s ease-in-out;
-  -ms-transition: -ms-transform .8s ease-in-out;
-  transition: transform .8s ease-in-out
+  -webkit-transition: -webkit-transform 2s ease-in-out;
+  -ms-transition: -ms-transform 2s ease-in-out;
+  transition: transform 2s ease-in-out
 }
 
 /* violet */
@@ -306,9 +306,9 @@ h3 {
 .violet .color-8:hover,
 .violet .color-9:hover,
 .violet .color-10:hover {
-  transform:rotate(45deg);
-  -ms-transform:rotate(45deg);
-  -webkit-transform:rotate(45deg);
+  transform:rotate(360deg);
+  -ms-transform:rotate(360deg);
+  -webkit-transform:rotate(360deg);
   opacity: 0.8;
 }
 
@@ -322,9 +322,9 @@ h3 {
 .violet .color-8,
 .violet .color-9,
 .violet .color-10 {
-  -webkit-transition: -webkit-transform .8s ease-in-out;
-  -ms-transition: -ms-transform .8s ease-in-out;
-  transition: transform .8s ease-in-out
+  -webkit-transition: -webkit-transform 2s ease-in-out;
+  -ms-transition: -ms-transform 2s ease-in-out;
+  transition: transform 2s ease-in-out
 }
 
 /* pink */
@@ -377,9 +377,9 @@ h3 {
 .pink .color-8:hover,
 .pink .color-9:hover,
 .pink .color-10:hover {
-  transform:rotate(45deg);
-  -ms-transform:rotate(45deg);
-  -webkit-transform:rotate(45deg);
+  transform:rotate(360deg);
+  -ms-transform:rotate(360deg);
+  -webkit-transform:rotate(360deg);
   opacity: 0.8;
 }
 
@@ -393,9 +393,9 @@ h3 {
 .pink .color-8,
 .pink .color-9,
 .pink .color-10 {
-  -webkit-transition: -webkit-transform .8s ease-in-out;
-  -ms-transition: -ms-transform .8s ease-in-out;
-  transition: transform .8s ease-in-out
+  -webkit-transition: -webkit-transform 2s ease-in-out;
+  -ms-transition: -ms-transform 2s ease-in-out;
+  transition: transform 2s ease-in-out
 }
 
 /* red */
@@ -449,9 +449,9 @@ h3 {
 .red .color-8:hover,
 .red .color-9:hover,
 .red .color-10:hover {
-  transform:rotate(45deg);
-  -ms-transform:rotate(45deg);
-  -webkit-transform:rotate(45deg);
+  transform:rotate(360deg);
+  -ms-transform:rotate(360deg);
+  -webkit-transform:rotate(360deg);
   opacity: 0.8;
 }
 
@@ -465,7 +465,7 @@ h3 {
 .red .color-8,
 .red .color-9,
 .red .color-10 {
-  -webkit-transition: -webkit-transform .8s ease-in-out;
-  -ms-transition: -ms-transform .8s ease-in-out;
-  transition: transform .8s ease-in-out
+  -webkit-transition: -webkit-transform 2s ease-in-out;
+  -ms-transition: -ms-transform 2s ease-in-out;
+  transition: transform 2s ease-in-out
 }
