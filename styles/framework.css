@@ -13,11 +13,10 @@
 
 /* columns style */
 [class^="col-"] {
+  position: relative;
   float: left;
   padding: 16px;
-  /* DEBUG:  */
-  background: pink;
-  border: 1px solid #000;
+  background: #bcaf9f;
   text-align: center;
 }
 
