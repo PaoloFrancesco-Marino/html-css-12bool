@@ -95,6 +95,10 @@ body {
   border-radius: 20px;
 }
 
+.bg-color-2:hover{
+  left: -286px
+}
+
 .bg-color-4 {
   background: #ece0c8;
   height: 100%;
@@ -113,10 +117,18 @@ body {
   border-radius: 20px;
 }
 
+.bg-color-16:hover{
+  top: -290px
+}
+
 .bg-color-32 {
   background: #e95937;
   height: 100%;
   border-radius: 20px;
+}
+
+.bg-color-32:hover {
+  bottom: 290px;
 }
 
 .bg-color-64 {
